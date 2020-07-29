@@ -8,3 +8,5 @@ Data source: Kaggle
 * All numeric variables except outcome
 * Only class variable categorical
 * Number of features: 31
+
+[](Graphs/ROC plot.png)
