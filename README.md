@@ -9,4 +9,4 @@ Data source: Kaggle
 * Only class variable categorical
 * Number of features: 31
 
-![](Graphs/ROC plot.png)
+![](Graphs/ROC%20plot.png)
